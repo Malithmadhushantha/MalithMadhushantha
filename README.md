@@ -13,7 +13,7 @@
 ## 🎓 Educational Qualifications
 - **Diploma in Human Resources Management** - University of Colombo
 - **Diploma in Information Technology** - NYSCO Education Institute
-- **Certificate in Fullstack Development (MERN Stack)** - Skyrek Institute
+- **Certificate in Fullstack Development (MERN Stack)** - Skyrek Institute (Studing)
 
 ---
 
@@ -27,6 +27,7 @@
 - Developing and maintaining web applications
 - Implementing responsive UI designs
 - Backend API development and integration
+- Database Handling
 
 ---
 
