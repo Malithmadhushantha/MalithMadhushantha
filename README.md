@@ -22,7 +22,7 @@
 **Police Officer**  
 *Current Position*
 
-### 💻 Berekke.web.lk
+### 💻 ezofz.web.lk
 **Fullstack Developer**  
 - Developing and maintaining web applications
 - Implementing responsive UI designs
