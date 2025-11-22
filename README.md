@@ -47,7 +47,7 @@
 ### Mobile Development
 ![Cordova](https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-119EFF?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
