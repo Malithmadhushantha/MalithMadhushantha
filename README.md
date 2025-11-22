@@ -11,10 +11,10 @@
 ---
 
 ## 🎓 Educational Qualifications
-- **Diploma in Human Resources Management** - University of Colombo
 - **Diploma in Information Technology** - NYSCO Education Institute
 - **Certificate in Fullstack Development (MERN Stack)** - Skyrek Institute (Studing)
-
+- **Advanced Certificate in Cybersecurity and Ethical Hacking** - - Oxford Graduate Campus
+- **Diploma in Human Resources Management** - University of Colombo
 ---
 
 ## 💼 Professional Experience
