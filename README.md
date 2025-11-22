@@ -56,7 +56,7 @@
 
 ## 🚀 Current Projects
 ### 1. ezofz.web.lk
-[![Website](https://img.shields.io/badge/Visit-Berekke.web.lk-2ea44f?style=for-the-badge)](https://ezofz.web.lk)
+[![Website](https://img.shields.io/badge/Visit-ezofz.web.lk-2ea44f?style=for-the-badge)](https://ezofz.web.lk)
 
 ### 2. Asali Frontend
 [![Website](https://img.shields.io/badge/Visit-Asali_Frontend-2ea44f?style=for-the-badge)](https://asali-frontend.vercel.app/)
