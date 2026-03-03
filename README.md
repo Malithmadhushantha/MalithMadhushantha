@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-✔ Sri Lanka Police Officer (Civil Office Duty)  
+✔ Sri Lanka Police Officer  
 ✔ Fullstack Web & Mobile Application Developer  
 ✔ Cybersecurity & Ethical Hacking Enthusiast  
 ✔ MERN Stack Developer  
